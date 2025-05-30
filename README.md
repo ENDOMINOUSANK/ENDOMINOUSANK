@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B91F1,100:3C7DD9&height=200&section=header&text=Hi%20I'm%20Ankit%20Sneh%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Bio -->
 ### 👨‍💻 About Me
 
 - 🔬 Passionate about Machine Learning and AI.
@@ -26,14 +25,10 @@
 
 ### 📈 Contribution Snake Animation
 
-<!-- GitHub Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ENDOMINOUSANK/ENDOMINOUSANK/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C7DD9,100:4B91F1&height=120&section=footer"/>
 </p>
