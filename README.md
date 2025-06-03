@@ -23,11 +23,6 @@
 
 ---
 
-### 📈 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ENDOMINOUSANK/ENDOMINOUSANK/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C7DD9,100:4B91F1&height=120&section=footer"/>
