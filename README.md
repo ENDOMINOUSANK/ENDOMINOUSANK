@@ -11,6 +11,8 @@
 
 ---
 
+![](https://raw.githubusercontent.com/ENDOMINOUSANK/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 ### 🛠️ Tech Stack
 
 <p align="center">
