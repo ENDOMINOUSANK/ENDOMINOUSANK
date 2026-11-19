@@ -38,7 +38,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ENDOMINOUSANK/ENDOMINOUSANK/main/koi/koi.gif" width="256" alt="My koi" />
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 <picture>
